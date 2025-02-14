@@ -7,3 +7,6 @@ It includes about 10 questions related to their job, such as the extent to which
 This dashboard provides a good visulaization about employees to employers. it helps human resources analysts understand if the staffs are satisfied with their job in different region of the world. 
 Through various ratings, they get to know the situation, psychology and identify suitable trends of human resources management in the world.
 
+  ![image](https://github.com/user-attachments/assets/e6fadfa2-7336-4efc-8d47-a6e6df7425ba)
+
+
